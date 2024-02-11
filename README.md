@@ -10,4 +10,4 @@ This is a Java implementation of the classic Snake and Ladder game. The game all
 - Ends the game when a player reaches the final position (100).
 
 ## Problem Statement
-
+ https://workat.tech/machine-coding/editorial/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w
