@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a05dc1e6-26e3-4f63-92c0-f89e4c8c7d25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/CellState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/Ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/workattech/input.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a05dc1e6-26e3-4f63-92c0-f89e4c8c7d25" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707656033131</updated>
-      <workItem from="1707656034436" duration="12010000" />
+      <workItem from="1707656034436" duration="12438000" />
     </task>
     <servers />
   </component>
@@ -114,11 +96,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/workattech/Snakeandladder/Model/Game.java</url>
           <line>92</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/workattech/Main.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
